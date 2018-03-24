@@ -1,4 +1,4 @@
 logging:
   level:
-    org.springframework: debug
+    org.springframework: info
     com.appskimo.app: debug
